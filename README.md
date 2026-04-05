@@ -18,7 +18,7 @@ Aplikasi ini dibangun untuk memenuhi Ujian Tengah Semester (UTS) mata kuliah Pem
 ### 1. Halaman Login (Responsif)
 | Mode Portrait | Mode Landscape |
 | :---: | :---: |
-| ![](LINK_PORTRAIT) | ![](LINK_LANDSCAPE) |
+| ![](https://github.com/Aleksiusdarate/UTS_PemrogSeluler_42430009_Alex/blob/59a3ca50e880cf3f916f0b66588f7ac65c9a6016/Screenshot%20(87).png) | ![](LINK_LANDSCAPE) |
 
 ### 2. Halaman Panel Generator
 | Input Data | Hasil Generate |
